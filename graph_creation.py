@@ -13,7 +13,7 @@ graph = Graph(neo4jUrl, bolt=True, password='oscar')
 queryMovies="""
 WITH {json} AS json
 UNWIND json AS p
-MERGE (:Film {title: p.movie_title, avg_rate: p.avg_score, id: p.movie_id})
+MERGE (:Film {title: p.movie_title, avg_rate: p.avg_score, id: toInt(p.movie_id)})
 """
 
 queryDirector="""
