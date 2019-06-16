@@ -3,22 +3,14 @@ library(stringdist)
 library(tidyverse)
 library(rjson)
 rm(list = ls())
-ClosestMatch = function(string, stringVector, n = 4){
-  flag <- amatch(string, stringVector, maxDist = n)
-  if ( !is.na(flag)){
-    flag
-  }
-  else
-    -1
-}
 
 movies <- read.csv("movies.csv", header = TRUE, dec=".", encoding = "UTF-8")
 movies.redu <- read.csv("movies_reduced.csv", header = TRUE, dec=".", encoding = "UTF-8")
 
 colnames(movies)
-#movies <- movies[,c(2,10,12,17,26)]
-#movies$avg_score <- movies$imdb_score/2
-#movies <- movies[,-5]
+movies <- movies[,c(2,10,12,17,26)]
+movies$avg_score <- movies$imdb_score/2
+movies <- movies[,-5]
 
 
 filtered.movies <- movies %>% 

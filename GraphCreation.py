@@ -4,12 +4,13 @@ import csv
 import random
 from py2neo import Graph
 
-# Connect to graph
+### Connection to graph.
 neo4jUrl = "bolt://localhost:7687"
-graph = Graph(neo4jUrl, bolt=True, password='oscar')
+graph = Graph(neo4jUrl, bolt=True, password='odproject')
 
 
-## Movie queries
+### Cypher queries.
+# Movie queries
 queryMovies="""
 WITH {json} AS json
 UNWIND json AS p
@@ -41,7 +42,7 @@ MATCH (f:Film {id: p.movie_id})
 MERGE (u)-[:WATCHED {rating: p.Mean}]->(f)
 """
 
-## Book queries
+# Book queries
 queryBooks="""
 LOAD CSV WITH HEADERS from 'file:///books.csv' AS book
 MERGE (:Book {title: book.title, avg_rate: book.average_rating, id: book.book_id, grId: book.goodreads_book_id})
@@ -74,13 +75,14 @@ MATCH (b:Book {id: rat.book_id})
 MERGE (u)-[:READ {rating: rat.rating}]->(b)
 """
 
-# Read JSON file
+### Reading of external files
+# Read JSON files
 with open('data/letterboxd/movies.json', encoding='utf-8') as json_file:
     movies = json.load(json_file)
 with open('data/letterboxd/ratings.json', encoding='utf-8') as json_file:
     users = json.load(json_file)
 
-### Send Cypher queries.
+### Execution of Cypher queries.
 # Move queries
 graph.run(queryMovies, json=movies)
 for movie in movies:
