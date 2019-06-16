@@ -20,7 +20,7 @@ MERGE (:Film {title: p.movie_title, avg_rate: p.avg_score, id: toInt(p.movie_id)
 queryDirector="""
 WITH {json} AS json
 UNWIND json AS p
-MERGE (d:Director {name:p.director_name})
+MERGE (d:Director {name: p.director_name})
 WITH d, p
 MATCH (f:Film {title: p.movie_title})
 MERGE (f)-[:DIRECTED_BY]->(d)
@@ -85,6 +85,7 @@ with open('data/letterboxd/ratings.json', encoding='utf-8') as json_file:
 ### Execution of Cypher queries.
 # Move queries
 graph.run(queryMovies, json=movies)
+graph.run(queryDirector, json=movies)
 for movie in movies:
     genres = movie['genres'].lower().split('|')
     for genre in genres:
