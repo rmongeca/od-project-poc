@@ -14,7 +14,7 @@ graph = Graph(neo4jUrl, bolt=True, password='odproject')
 queryMovies="""
 WITH {json} AS json
 UNWIND json AS p
-MERGE (:Film {title: p.movie_title, avg_rate: p.avg_score, id: toInt(p.movie_id)})
+MERGE (:Film {title: p.movie_title, avg_rate: p.avg_score, fId: toInt(p.movie_id)})
 """
 
 queryDirector="""
@@ -36,16 +36,16 @@ MERGE (f)-[:OF_GENRE]->(g)
 queryMovieRatings="""
 WITH {json} AS json
 UNWIND json AS p
-MERGE (u:User {id: p.user_id})
+MERGE (u:User {uId: p.user_id})
 WITH u, p
-MATCH (f:Film {id: p.movie_id})
+MATCH (f:Film {fId: p.movie_id})
 MERGE (u)-[:WATCHED {rating: p.Mean}]->(f)
 """
 
 # Book queries
 queryBooks="""
 LOAD CSV WITH HEADERS from 'file:///books.csv' AS book
-MERGE (:Book {title: book.title, avg_rate: book.average_rating, id: book.book_id, grId: book.goodreads_book_id})
+MERGE (:Book {title: book.title, avg_rate: book.average_rating, bId: toInt(book.book_id), grId: toInt(book.goodreads_book_id)})
 """
 
 queryWriters="""
@@ -58,28 +58,28 @@ MERGE (b)-[:WRITTEN_BY]->(a)
 
 queryTags="""
 LOAD CSV WITH HEADERS from 'file:///tags.csv' AS tags
-MERGE (g:Genre {tag: tags.tag_name, id: tags.tag_id})
+MERGE (g:Genre {tag: tags.tag_name, gId: toInt(tags.tag_id)})
 """
 
 queryBookTags="""
 LOAD CSV WITH HEADERS from 'file:///book_tags.csv' AS bt
-MATCH (t:Genre {id: bt.tag_id}), (b:Book {grId: bt.goodreads_book_id})
+MATCH (t:Genre {gId: toInt(bt.tag_id)}), (b:Book {grId: toInt(bt.goodreads_book_id)})
 MERGE (b)-[:OF_GENRE]->(t)
 """
 
 queryBookRatings="""
 LOAD CSV WITH HEADERS from 'file:///ratings.csv' AS rat
-MERGE (u:User {id: rat.user_id})
+MERGE (u:User {uId: toInt(rat.user_id)})
 WITH u, rat
-MATCH (b:Book {id: rat.book_id})
-MERGE (u)-[:READ {rating: rat.rating}]->(b)
+MATCH (b:Book {bId: toInt(rat.book_id)})
+MERGE (u)-[:READ {rating: toInt(rat.rating)}]->(b)
 """
 
 ### Reading of external files
 # Read JSON files
-with open('data/letterboxd/movies.json', encoding='utf-8') as json_file:
+with open('data/letterboxd/movies.json') as json_file:
     movies = json.load(json_file)
-with open('data/letterboxd/ratings.json', encoding='utf-8') as json_file:
+with open('data/letterboxd/ratings.json') as json_file:
     users = json.load(json_file)
 
 ### Execution of Cypher queries.

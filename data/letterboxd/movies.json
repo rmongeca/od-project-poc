@@ -1,702 +1,702 @@
 [
     {
-        "movie_id":"1",
-        "director_name":"Ron Howard",
-        "genres":"Mystery|Thriller",
-        "movie_title":"Angels & Demons",
-        "avg_score":3.35
+        "avg_score": 3.35,
+        "director_name": "Ron Howard",
+        "genres": "Mystery|Thriller",
+        "movie_id": 1,
+        "movie_title": "Angels & Demons"
     },
     {
-        "movie_id":"2",
-        "director_name":"Neil Burger",
-        "genres":"Adventure|Mystery|Sci-Fi",
-        "movie_title":"Divergent",
-        "avg_score":3.35
+        "avg_score": 3.35,
+        "director_name": "Neil Burger",
+        "genres": "Adventure|Mystery|Sci-Fi",
+        "movie_id": 2,
+        "movie_title": "Divergent"
     },
     {
-        "movie_id":"3",
-        "director_name":"Michael Moore",
-        "genres":"Documentary|Drama|War",
-        "movie_title":"Fahrenheit 9/11",
-        "avg_score":3.75
+        "avg_score": 3.75,
+        "director_name": "Michael Moore",
+        "genres": "Documentary|Drama|War",
+        "movie_id": 3,
+        "movie_title": "Fahrenheit 9/11"
     },
     {
-        "movie_id":"4",
-        "director_name":"Sam Taylor-Johnson",
-        "genres":"Drama|Romance",
-        "movie_title":"Fifty Shades of Grey",
-        "avg_score":2.05
+        "avg_score": 2.05,
+        "director_name": "Sam Taylor-Johnson",
+        "genres": "Drama|Romance",
+        "movie_id": 4,
+        "movie_title": "Fifty Shades of Grey"
     },
     {
-        "movie_id":"5",
-        "director_name":"David Fincher",
-        "genres":"Crime|Drama|Mystery|Thriller",
-        "movie_title":"Gone Girl",
-        "avg_score":4.05
+        "avg_score": 4.05,
+        "director_name": "David Fincher",
+        "genres": "Crime|Drama|Mystery|Thriller",
+        "movie_id": 5,
+        "movie_title": "Gone Girl"
     },
     {
-        "movie_id":"6",
-        "director_name":"Chris Columbus",
-        "genres":"Adventure|Family|Fantasy|Mystery",
-        "movie_title":"Harry Potter and the Chamber of Secrets",
-        "avg_score":3.7
+        "avg_score": 3.7,
+        "director_name": "Chris Columbus",
+        "genres": "Adventure|Family|Fantasy|Mystery",
+        "movie_id": 6,
+        "movie_title": "Harry Potter and the Chamber of Secrets"
     },
     {
-        "movie_id":"7",
-        "director_name":"Matt Birch",
-        "genres":"Fantasy",
-        "movie_title":"Harry Potter and the Deathly Hallows: Part I",
-        "avg_score":3.2
+        "avg_score": 3.2,
+        "director_name": "Matt Birch",
+        "genres": "Fantasy",
+        "movie_id": 7,
+        "movie_title": "Harry Potter and the Deathly Hallows: Part I"
     },
     {
-        "movie_id":"8",
-        "director_name":"Matt Birch",
-        "genres":"Action|Fantasy",
-        "movie_title":"Harry Potter and the Deathly Hallows: Part II",
-        "avg_score":3.75
+        "avg_score": 3.75,
+        "director_name": "Matt Birch",
+        "genres": "Action|Fantasy",
+        "movie_id": 8,
+        "movie_title": "Harry Potter and the Deathly Hallows: Part II"
     },
     {
-        "movie_id":"9",
-        "director_name":"Mike Newell",
-        "genres":"Adventure|Family|Fantasy|Mystery",
-        "movie_title":"Harry Potter and the Goblet of Fire",
-        "avg_score":3.8
+        "avg_score": 3.8,
+        "director_name": "Mike Newell",
+        "genres": "Adventure|Family|Fantasy|Mystery",
+        "movie_id": 9,
+        "movie_title": "Harry Potter and the Goblet of Fire"
     },
     {
-        "movie_id":"10",
-        "director_name":"David Yates",
-        "genres":"Adventure|Family|Fantasy|Mystery",
-        "movie_title":"Harry Potter and the Half-Blood Prince",
-        "avg_score":3.75
+        "avg_score": 3.75,
+        "director_name": "David Yates",
+        "genres": "Adventure|Family|Fantasy|Mystery",
+        "movie_id": 10,
+        "movie_title": "Harry Potter and the Half-Blood Prince"
     },
     {
-        "movie_id":"11",
-        "director_name":"David Yates",
-        "genres":"Adventure|Family|Fantasy|Mystery",
-        "movie_title":"Harry Potter and the Order of the Phoenix",
-        "avg_score":3.75
+        "avg_score": 3.75,
+        "director_name": "David Yates",
+        "genres": "Adventure|Family|Fantasy|Mystery",
+        "movie_id": 11,
+        "movie_title": "Harry Potter and the Order of the Phoenix"
     },
     {
-        "movie_id":"12",
-        "director_name":"Alfonso Cuaron",
-        "genres":"Adventure|Family|Fantasy|Mystery",
-        "movie_title":"Harry Potter and the Prisoner of Azkaban",
-        "avg_score":3.9
+        "avg_score": 3.9,
+        "director_name": "Alfonso Cuaron",
+        "genres": "Adventure|Family|Fantasy|Mystery",
+        "movie_id": 12,
+        "movie_title": "Harry Potter and the Prisoner of Azkaban"
     },
     {
-        "movie_id":"13",
-        "director_name":"Chris Columbus",
-        "genres":"Adventure|Family|Fantasy",
-        "movie_title":"Harry Potter and the Sorcerer's Stone",
-        "avg_score":3.75
+        "avg_score": 3.75,
+        "director_name": "Chris Columbus",
+        "genres": "Adventure|Family|Fantasy",
+        "movie_id": 13,
+        "movie_title": "Harry Potter and the Sorcerer's Stone"
     },
     {
-        "movie_id":"14",
-        "director_name":"Ang Lee",
-        "genres":"Adventure|Drama|Fantasy",
-        "movie_title":"Life of Pi",
-        "avg_score":4
+        "avg_score": 4,
+        "director_name": "Ang Lee",
+        "genres": "Adventure|Drama|Fantasy",
+        "movie_id": 14,
+        "movie_title": "Life of Pi"
     },
     {
-        "movie_id":"15",
-        "director_name":"Rob Marshall",
-        "genres":"Drama|Romance",
-        "movie_title":"Memoirs of a Geisha",
-        "avg_score":3.65
+        "avg_score": 3.65,
+        "director_name": "Rob Marshall",
+        "genres": "Drama|Romance",
+        "movie_id": 15,
+        "movie_title": "Memoirs of a Geisha"
     },
     {
-        "movie_id":"16",
-        "director_name":"Chris Columbus",
-        "genres":"Adventure|Family|Fantasy",
-        "movie_title":"Percy Jackson & the Olympians: The Lightning Thief",
-        "avg_score":2.95
+        "avg_score": 2.95,
+        "director_name": "Chris Columbus",
+        "genres": "Adventure|Family|Fantasy",
+        "movie_id": 16,
+        "movie_title": "Percy Jackson & the Olympians: The Lightning Thief"
     },
     {
-        "movie_id":"17",
-        "director_name":"Thor Freudenthal",
-        "genres":"Adventure|Family|Fantasy",
-        "movie_title":"Percy Jackson: Sea of Monsters",
-        "avg_score":2.95
+        "avg_score": 2.95,
+        "director_name": "Thor Freudenthal",
+        "genres": "Adventure|Family|Fantasy",
+        "movie_id": 17,
+        "movie_title": "Percy Jackson: Sea of Monsters"
     },
     {
-        "movie_id":"18",
-        "director_name":"Burr Steers",
-        "genres":"Action|Horror|Romance",
-        "movie_title":"Pride and Prejudice and Zombies",
-        "avg_score":2.9
+        "avg_score": 2.9,
+        "director_name": "Burr Steers",
+        "genres": "Action|Horror|Romance",
+        "movie_id": 18,
+        "movie_title": "Pride and Prejudice and Zombies"
     },
     {
-        "movie_id":"19",
-        "director_name":"Brian Percival",
-        "genres":"Drama|War",
-        "movie_title":"The Book Thief",
-        "avg_score":3.8
+        "avg_score": 3.8,
+        "director_name": "Brian Percival",
+        "genres": "Drama|War",
+        "movie_id": 19,
+        "movie_title": "The Book Thief"
     },
     {
-        "movie_id":"20",
-        "director_name":"Andrew Adamson",
-        "genres":"Action|Adventure|Family|Fantasy",
-        "movie_title":"The Chronicles of Narnia: Prince Caspian",
-        "avg_score":3.3
+        "avg_score": 3.3,
+        "director_name": "Andrew Adamson",
+        "genres": "Action|Adventure|Family|Fantasy",
+        "movie_id": 20,
+        "movie_title": "The Chronicles of Narnia: Prince Caspian"
     },
     {
-        "movie_id":"21",
-        "director_name":"Andrew Adamson",
-        "genres":"Adventure|Family|Fantasy",
-        "movie_title":"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-        "avg_score":3.45
+        "avg_score": 3.45,
+        "director_name": "Andrew Adamson",
+        "genres": "Adventure|Family|Fantasy",
+        "movie_id": 21,
+        "movie_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
     },
     {
-        "movie_id":"22",
-        "director_name":"Michael Apted",
-        "genres":"Adventure|Family|Fantasy",
-        "movie_title":"The Chronicles of Narnia: The Voyage of the Dawn Treader",
-        "avg_score":3.15
+        "avg_score": 3.15,
+        "director_name": "Michael Apted",
+        "genres": "Adventure|Family|Fantasy",
+        "movie_id": 22,
+        "movie_title": "The Chronicles of Narnia: The Voyage of the Dawn Treader"
     },
     {
-        "movie_id":"23",
-        "director_name":"Ron Howard",
-        "genres":"Mystery|Thriller",
-        "movie_title":"The Da Vinci Code",
-        "avg_score":3.3
+        "avg_score": 3.3,
+        "director_name": "Ron Howard",
+        "genres": "Mystery|Thriller",
+        "movie_id": 23,
+        "movie_title": "The Da Vinci Code"
     },
     {
-        "movie_id":"24",
-        "director_name":"Marielle Heller",
-        "genres":"Drama|Romance",
-        "movie_title":"The Diary of a Teenage Girl",
-        "avg_score":3.45
+        "avg_score": 3.45,
+        "director_name": "Marielle Heller",
+        "genres": "Drama|Romance",
+        "movie_id": 24,
+        "movie_title": "The Diary of a Teenage Girl"
     },
     {
-        "movie_id":"25",
-        "director_name":"David Fincher",
-        "genres":"Crime|Drama|Mystery|Thriller",
-        "movie_title":"The Girl with the Dragon Tattoo",
-        "avg_score":3.9
+        "avg_score": 3.9,
+        "director_name": "David Fincher",
+        "genres": "Crime|Drama|Mystery|Thriller",
+        "movie_id": 25,
+        "movie_title": "The Girl with the Dragon Tattoo"
     },
     {
-        "movie_id":"26",
-        "director_name":"Phillip Noyce",
-        "genres":"Drama|Romance|Sci-Fi",
-        "movie_title":"The Giver",
-        "avg_score":3.25
+        "avg_score": 3.25,
+        "director_name": "Phillip Noyce",
+        "genres": "Drama|Romance|Sci-Fi",
+        "movie_id": 26,
+        "movie_title": "The Giver"
     },
     {
-        "movie_id":"27",
-        "director_name":"Baz Luhrmann",
-        "genres":"Drama|Romance",
-        "movie_title":"The Great Gatsby",
-        "avg_score":3.65
+        "avg_score": 3.65,
+        "director_name": "Baz Luhrmann",
+        "genres": "Drama|Romance",
+        "movie_id": 27,
+        "movie_title": "The Great Gatsby"
     },
     {
-        "movie_id":"28",
-        "director_name":"Tate Taylor",
-        "genres":"Drama",
-        "movie_title":"The Help",
-        "avg_score":4.05
+        "avg_score": 4.05,
+        "director_name": "Tate Taylor",
+        "genres": "Drama",
+        "movie_id": 28,
+        "movie_title": "The Help"
     },
     {
-        "movie_id":"29",
-        "director_name":"Peter Jackson",
-        "genres":"Adventure|Fantasy",
-        "movie_title":"The Hobbit: An Unexpected Journey",
-        "avg_score":3.95
+        "avg_score": 3.95,
+        "director_name": "Peter Jackson",
+        "genres": "Adventure|Fantasy",
+        "movie_id": 29,
+        "movie_title": "The Hobbit: An Unexpected Journey"
     },
     {
-        "movie_id":"30",
-        "director_name":"Peter Jackson",
-        "genres":"Adventure|Fantasy",
-        "movie_title":"The Hobbit: The Battle of the Five Armies",
-        "avg_score":3.75
+        "avg_score": 3.75,
+        "director_name": "Peter Jackson",
+        "genres": "Adventure|Fantasy",
+        "movie_id": 30,
+        "movie_title": "The Hobbit: The Battle of the Five Armies"
     },
     {
-        "movie_id":"31",
-        "director_name":"Peter Jackson",
-        "genres":"Adventure|Fantasy",
-        "movie_title":"The Hobbit: The Desolation of Smaug",
-        "avg_score":3.95
+        "avg_score": 3.95,
+        "director_name": "Peter Jackson",
+        "genres": "Adventure|Fantasy",
+        "movie_id": 31,
+        "movie_title": "The Hobbit: The Desolation of Smaug"
     },
     {
-        "movie_id":"32",
-        "director_name":"Gary Ross",
-        "genres":"Adventure|Drama|Sci-Fi|Thriller",
-        "movie_title":"The Hunger Games",
-        "avg_score":3.65
+        "avg_score": 3.65,
+        "director_name": "Gary Ross",
+        "genres": "Adventure|Drama|Sci-Fi|Thriller",
+        "movie_id": 32,
+        "movie_title": "The Hunger Games"
     },
     {
-        "movie_id":"33",
-        "director_name":"Francis Lawrence",
-        "genres":"Adventure|Sci-Fi|Thriller",
-        "movie_title":"The Hunger Games: Catching Fire",
-        "avg_score":3.8
+        "avg_score": 3.8,
+        "director_name": "Francis Lawrence",
+        "genres": "Adventure|Sci-Fi|Thriller",
+        "movie_id": 33,
+        "movie_title": "The Hunger Games: Catching Fire"
     },
     {
-        "movie_id":"34",
-        "director_name":"Francis Lawrence",
-        "genres":"Adventure|Sci-Fi|Thriller",
-        "movie_title":"The Hunger Games: Mockingjay - Part 1",
-        "avg_score":3.35
+        "avg_score": 3.35,
+        "director_name": "Francis Lawrence",
+        "genres": "Adventure|Sci-Fi|Thriller",
+        "movie_id": 34,
+        "movie_title": "The Hunger Games: Mockingjay - Part 1"
     },
     {
-        "movie_id":"35",
-        "director_name":"Francis Lawrence",
-        "genres":"Adventure|Sci-Fi",
-        "movie_title":"The Hunger Games: Mockingjay - Part 2",
-        "avg_score":3.3
+        "avg_score": 3.3,
+        "director_name": "Francis Lawrence",
+        "genres": "Adventure|Sci-Fi",
+        "movie_id": 35,
+        "movie_title": "The Hunger Games: Mockingjay - Part 2"
     },
     {
-        "movie_id":"36",
-        "director_name":"Marc Forster",
-        "genres":"Drama",
-        "movie_title":"The Kite Runner",
-        "avg_score":3.8
+        "avg_score": 3.8,
+        "director_name": "Marc Forster",
+        "genres": "Drama",
+        "movie_id": 36,
+        "movie_title": "The Kite Runner"
     },
     {
-        "movie_id":"37",
-        "director_name":"Peter Jackson",
-        "genres":"Action|Adventure|Drama|Fantasy",
-        "movie_title":"The Lord of the Rings: The Fellowship of the Ring",
-        "avg_score":4.4
+        "avg_score": 4.4,
+        "director_name": "Peter Jackson",
+        "genres": "Action|Adventure|Drama|Fantasy",
+        "movie_id": 37,
+        "movie_title": "The Lord of the Rings: The Fellowship of the Ring"
     },
     {
-        "movie_id":"38",
-        "director_name":"Peter Jackson",
-        "genres":"Action|Adventure|Drama|Fantasy",
-        "movie_title":"The Lord of the Rings: The Return of the King",
-        "avg_score":4.45
+        "avg_score": 4.45,
+        "director_name": "Peter Jackson",
+        "genres": "Action|Adventure|Drama|Fantasy",
+        "movie_id": 38,
+        "movie_title": "The Lord of the Rings: The Return of the King"
     },
     {
-        "movie_id":"39",
-        "director_name":"Peter Jackson",
-        "genres":"Action|Adventure|Drama|Fantasy",
-        "movie_title":"The Lord of the Rings: The Two Towers",
-        "avg_score":4.35
+        "avg_score": 4.35,
+        "director_name": "Peter Jackson",
+        "genres": "Action|Adventure|Drama|Fantasy",
+        "movie_id": 39,
+        "movie_title": "The Lord of the Rings: The Two Towers"
     },
     {
-        "movie_id":"40",
-        "director_name":"Peter Jackson",
-        "genres":"Drama|Fantasy|Thriller",
-        "movie_title":"The Lovely Bones",
-        "avg_score":3.35
+        "avg_score": 3.35,
+        "director_name": "Peter Jackson",
+        "genres": "Drama|Fantasy|Thriller",
+        "movie_id": 40,
+        "movie_title": "The Lovely Bones"
     },
     {
-        "movie_id":"41",
-        "director_name":"Nick Cassavetes",
-        "genres":"Drama|Romance",
-        "movie_title":"The Notebook",
-        "avg_score":3.95
+        "avg_score": 3.95,
+        "director_name": "Nick Cassavetes",
+        "genres": "Drama|Romance",
+        "movie_id": 41,
+        "movie_title": "The Notebook"
     },
     {
-        "movie_id":"42",
-        "director_name":"Robert Schwentke",
-        "genres":"Drama|Fantasy|Romance|Sci-Fi",
-        "movie_title":"The Time Traveler's Wife",
-        "avg_score":3.55
+        "avg_score": 3.55,
+        "director_name": "Robert Schwentke",
+        "genres": "Drama|Fantasy|Romance|Sci-Fi",
+        "movie_id": 42,
+        "movie_title": "The Time Traveler's Wife"
     },
     {
-        "movie_id":"43",
-        "director_name":"Bill Condon",
-        "genres":"Adventure|Drama|Fantasy|Romance",
-        "movie_title":"The Twilight Saga: Breaking Dawn - Part 1",
-        "avg_score":2.95
+        "avg_score": 2.95,
+        "director_name": "Bill Condon",
+        "genres": "Adventure|Drama|Fantasy|Romance",
+        "movie_id": 43,
+        "movie_title": "The Twilight Saga: Breaking Dawn - Part 1"
     },
     {
-        "movie_id":"44",
-        "director_name":"Bill Condon",
-        "genres":"Adventure|Drama|Fantasy|Romance",
-        "movie_title":"The Twilight Saga: Breaking Dawn - Part 2",
-        "avg_score":2.75
+        "avg_score": 2.75,
+        "director_name": "Bill Condon",
+        "genres": "Adventure|Drama|Fantasy|Romance",
+        "movie_id": 44,
+        "movie_title": "The Twilight Saga: Breaking Dawn - Part 2"
     },
     {
-        "movie_id":"45",
-        "director_name":"David Slade",
-        "genres":"Adventure|Drama|Fantasy|Romance",
-        "movie_title":"The Twilight Saga: Eclipse",
-        "avg_score":2.45
+        "avg_score": 2.45,
+        "director_name": "David Slade",
+        "genres": "Adventure|Drama|Fantasy|Romance",
+        "movie_id": 45,
+        "movie_title": "The Twilight Saga: Eclipse"
     },
     {
-        "movie_id":"46",
-        "director_name":"Chris Weitz",
-        "genres":"Adventure|Drama|Fantasy|Romance",
-        "movie_title":"The Twilight Saga: New Moon",
-        "avg_score":2.3
+        "avg_score": 2.3,
+        "director_name": "Chris Weitz",
+        "genres": "Adventure|Drama|Fantasy|Romance",
+        "movie_id": 46,
+        "movie_title": "The Twilight Saga: New Moon"
     },
     {
-        "movie_id":"47",
-        "director_name":"Robert Mulligan",
-        "genres":"Crime|Drama",
-        "movie_title":"To Kill a Mockingbird",
-        "avg_score":4.2
+        "avg_score": 4.2,
+        "director_name": "Robert Mulligan",
+        "genres": "Crime|Drama",
+        "movie_id": 47,
+        "movie_title": "To Kill a Mockingbird"
     },
     {
-        "movie_id":"48",
-        "director_name":"Catherine Hardwicke",
-        "genres":"Drama|Fantasy|Romance",
-        "movie_title":"Twilight",
-        "avg_score":2.6
+        "avg_score": 2.6,
+        "director_name": "Catherine Hardwicke",
+        "genres": "Drama|Fantasy|Romance",
+        "movie_id": 48,
+        "movie_title": "Twilight"
     },
     {
-        "movie_id":"49",
-        "director_name":"Francis Lawrence",
-        "genres":"Drama|Romance",
-        "movie_title":"Water for Elephants",
-        "avg_score":3.45
+        "avg_score": 3.45,
+        "director_name": "Francis Lawrence",
+        "genres": "Drama|Romance",
+        "movie_id": 49,
+        "movie_title": "Water for Elephants"
     },
     {
-        "movie_id":"50",
-        "director_name":"Lloyd Bacon",
-        "genres":"Comedy|Musical|Romance",
-        "movie_title":"42nd Street",
-        "avg_score":3.85
+        "avg_score": 3.85,
+        "director_name": "Lloyd Bacon",
+        "genres": "Comedy|Musical|Romance",
+        "movie_id": 50,
+        "movie_title": "42nd Street"
     },
     {
-        "movie_id":"51",
-        "director_name":"J.C. Chandor",
-        "genres":"Action|Adventure|Drama",
-        "movie_title":"All Is Lost",
-        "avg_score":3.45
+        "avg_score": 3.45,
+        "director_name": "J.C. Chandor",
+        "genres": "Action|Adventure|Drama",
+        "movie_id": 51,
+        "movie_title": "All Is Lost"
     },
     {
-        "movie_id":"52",
-        "director_name":"Darren Lynn Bousman",
-        "genres":"Horror|Musical",
-        "movie_title":"Alleluia! The Devil's Carnival",
-        "avg_score":3.7
+        "avg_score": 3.7,
+        "director_name": "Darren Lynn Bousman",
+        "genres": "Horror|Musical",
+        "movie_id": 52,
+        "movie_title": "Alleluia! The Devil's Carnival"
     },
     {
-        "movie_id":"53",
-        "director_name":"Don Bluth",
-        "genres":"Adventure|Animation|Drama|Family|Fantasy|Musical|Mystery|Romance",
-        "movie_title":"Anastasia",
-        "avg_score":3.55
+        "avg_score": 3.55,
+        "director_name": "Don Bluth",
+        "genres": "Adventure|Animation|Drama|Family|Fantasy|Musical|Mystery|Romance",
+        "movie_id": 53,
+        "movie_title": "Anastasia"
     },
     {
-        "movie_id":"54",
-        "director_name":"Christopher Nolan",
-        "genres":"Action|Adventure",
-        "movie_title":"Batman Begins",
-        "avg_score":4.15
+        "avg_score": 4.15,
+        "director_name": "Christopher Nolan",
+        "genres": "Action|Adventure",
+        "movie_id": 54,
+        "movie_title": "Batman Begins"
     },
     {
-        "movie_id":"55",
-        "director_name":"Michael Corrente",
-        "genres":"Crime|Drama",
-        "movie_title":"Brooklyn Rules",
-        "avg_score":3.2
+        "avg_score": 3.2,
+        "director_name": "Michael Corrente",
+        "genres": "Crime|Drama",
+        "movie_id": 55,
+        "movie_title": "Brooklyn Rules"
     },
     {
-        "movie_id":"56",
-        "director_name":"Cody Cameron",
-        "genres":"Animation|Comedy|Family|Fantasy|Sci-Fi",
-        "movie_title":"Cloudy with a Chance of Meatballs 2",
-        "avg_score":3.25
+        "avg_score": 3.25,
+        "director_name": "Cody Cameron",
+        "genres": "Animation|Comedy|Family|Fantasy|Sci-Fi",
+        "movie_id": 56,
+        "movie_title": "Cloudy with a Chance of Meatballs 2"
     },
     {
-        "movie_id":"57",
-        "director_name":"Steven Soderbergh",
-        "genres":"Drama|Thriller",
-        "movie_title":"Contagion",
-        "avg_score":3.3
+        "avg_score": 3.3,
+        "director_name": "Steven Soderbergh",
+        "genres": "Drama|Thriller",
+        "movie_id": 57,
+        "movie_title": "Contagion"
     },
     {
-        "movie_id":"58",
-        "director_name":"Andrzej Bartkowiak",
-        "genres":"Action|Adventure|Horror|Sci-Fi",
-        "movie_title":"Doom",
-        "avg_score":2.6
+        "avg_score": 2.6,
+        "director_name": "Andrzej Bartkowiak",
+        "genres": "Action|Adventure|Horror|Sci-Fi",
+        "movie_id": 58,
+        "movie_title": "Doom"
     },
     {
-        "movie_id":"59",
-        "director_name":"John Schultz",
-        "genres":"Comedy|Drama|Romance",
-        "movie_title":"Drive Me Crazy",
-        "avg_score":2.85
+        "avg_score": 2.85,
+        "director_name": "John Schultz",
+        "genres": "Comedy|Drama|Romance",
+        "movie_id": 59,
+        "movie_title": "Drive Me Crazy"
     },
     {
-        "movie_id":"60",
-        "director_name":"Mariette Monpierre",
-        "genres":"Drama",
-        "movie_title":"Elza",
-        "avg_score":3.35
+        "avg_score": 3.35,
+        "director_name": "Mariette Monpierre",
+        "genres": "Drama",
+        "movie_id": 60,
+        "movie_title": "Elza"
     },
     {
-        "movie_id":"61",
-        "director_name":"Jon Amiel",
-        "genres":"Action|Crime|Romance|Thriller",
-        "movie_title":"Entrapment",
-        "avg_score":3.1
+        "avg_score": 3.1,
+        "director_name": "Jon Amiel",
+        "genres": "Action|Crime|Romance|Thriller",
+        "movie_id": 61,
+        "movie_title": "Entrapment"
     },
     {
-        "movie_id":"62",
-        "director_name":"David Cronenberg",
-        "genres":"Horror|Sci-Fi|Thriller",
-        "movie_title":"eXistenZ",
-        "avg_score":3.4
+        "avg_score": 3.4,
+        "director_name": "David Cronenberg",
+        "genres": "Horror|Sci-Fi|Thriller",
+        "movie_id": 62,
+        "movie_title": "eXistenZ"
     },
     {
-        "movie_id":"63",
-        "director_name":"Alex Kendrick",
-        "genres":"Drama",
-        "movie_title":"Flywheel",
-        "avg_score":3.45
+        "avg_score": 3.45,
+        "director_name": "Alex Kendrick",
+        "genres": "Drama",
+        "movie_id": 63,
+        "movie_title": "Flywheel"
     },
     {
-        "movie_id":"64",
-        "director_name":"Danny Steinmann",
-        "genres":"Horror|Mystery|Thriller",
-        "movie_title":"Friday the 13th: A New Beginning",
-        "avg_score":2.35
+        "avg_score": 2.35,
+        "director_name": "Danny Steinmann",
+        "genres": "Horror|Mystery|Thriller",
+        "movie_id": 64,
+        "movie_title": "Friday the 13th: A New Beginning"
     },
     {
-        "movie_id":"65",
-        "director_name":"Martin Brest",
-        "genres":"Comedy|Crime|Romance",
-        "movie_title":"Gigli",
-        "avg_score":1.2
+        "avg_score": 1.2,
+        "director_name": "Martin Brest",
+        "genres": "Comedy|Crime|Romance",
+        "movie_id": 65,
+        "movie_title": "Gigli"
     },
     {
-        "movie_id":"66",
-        "director_name":"Dominique Othenin-Girard",
-        "genres":"Horror|Thriller",
-        "movie_title":"Halloween 5",
-        "avg_score":2.6
+        "avg_score": 2.6,
+        "director_name": "Dominique Othenin-Girard",
+        "genres": "Horror|Thriller",
+        "movie_id": 66,
+        "movie_title": "Halloween 5"
     },
     {
-        "movie_id":"67",
-        "director_name":"Russell Mulcahy",
-        "genres":"Action|Adventure|Fantasy",
-        "movie_title":"Highlander",
-        "avg_score":3.6
+        "avg_score": 3.6,
+        "director_name": "Russell Mulcahy",
+        "genres": "Action|Adventure|Fantasy",
+        "movie_id": 67,
+        "movie_title": "Highlander"
     },
     {
-        "movie_id":"68",
-        "director_name":"Robert Luketic",
-        "genres":"Action|Comedy|Romance|Thriller",
-        "movie_title":"Killers",
-        "avg_score":2.7
+        "avg_score": 2.7,
+        "director_name": "Robert Luketic",
+        "genres": "Action|Comedy|Romance|Thriller",
+        "movie_id": 68,
+        "movie_title": "Killers"
     },
     {
-        "movie_id":"69",
-        "director_name":"Peter Jackson",
-        "genres":"Action|Adventure|Drama|Romance",
-        "movie_title":"King Kong",
-        "avg_score":3.6
+        "avg_score": 3.6,
+        "director_name": "Peter Jackson",
+        "genres": "Action|Adventure|Drama|Romance",
+        "movie_id": 69,
+        "movie_title": "King Kong"
     },
     {
-        "movie_id":"70",
-        "director_name":"Aki Kaurism<e4>ki",
-        "genres":"Comedy|Drama",
-        "movie_title":"Le Havre",
-        "avg_score":3.6
+        "avg_score": 3.6,
+        "director_name": "Aki Kaurism<e4>ki",
+        "genres": "Comedy|Drama",
+        "movie_id": 70,
+        "movie_title": "Le Havre"
     },
     {
-        "movie_id":"71",
-        "director_name":"Mark Herman",
-        "genres":"Comedy|Drama|Music|Romance",
-        "movie_title":"Little Voice",
-        "avg_score":3.5
+        "avg_score": 3.5,
+        "director_name": "Mark Herman",
+        "genres": "Comedy|Drama|Music|Romance",
+        "movie_id": 71,
+        "movie_title": "Little Voice"
     },
     {
-        "movie_id":"72",
-        "director_name":"Guy Hamilton",
-        "genres":"Action|Adventure|Thriller",
-        "movie_title":"Live and Let Die",
-        "avg_score":3.4
+        "avg_score": 3.4,
+        "director_name": "Guy Hamilton",
+        "genres": "Action|Adventure|Thriller",
+        "movie_id": 72,
+        "movie_title": "Live and Let Die"
     },
     {
-        "movie_id":"73",
-        "director_name":"Theodore Witcher",
-        "genres":"Drama|Romance",
-        "movie_title":"Love Jones",
-        "avg_score":3.7
+        "avg_score": 3.7,
+        "director_name": "Theodore Witcher",
+        "genres": "Drama|Romance",
+        "movie_id": 73,
+        "movie_title": "Love Jones"
     },
     {
-        "movie_id":"74",
-        "director_name":"Boaz Yakin",
-        "genres":"Adventure|Family",
-        "movie_title":"Max",
-        "avg_score":3.4
+        "avg_score": 3.4,
+        "director_name": "Boaz Yakin",
+        "genres": "Adventure|Family",
+        "movie_id": 74,
+        "movie_title": "Max"
     },
     {
-        "movie_id":"75",
-        "director_name":"Jaime Zevallos",
-        "genres":"Comedy|Drama|Romance",
-        "movie_title":"Me You and Five Bucks",
-        "avg_score":3.8
+        "avg_score": 3.8,
+        "director_name": "Jaime Zevallos",
+        "genres": "Comedy|Drama|Romance",
+        "movie_id": 75,
+        "movie_title": "Me You and Five Bucks"
     },
     {
-        "movie_id":"76",
-        "director_name":"Renny Harlin",
-        "genres":"Crime|Horror|Mystery|Thriller",
-        "movie_title":"Mindhunters",
-        "avg_score":3.2
+        "avg_score": 3.2,
+        "director_name": "Renny Harlin",
+        "genres": "Crime|Horror|Mystery|Thriller",
+        "movie_id": 76,
+        "movie_title": "Mindhunters"
     },
     {
-        "movie_id":"77",
-        "director_name":"Dan Scanlon",
-        "genres":"Adventure|Animation|Comedy|Family|Fantasy",
-        "movie_title":"Monsters University",
-        "avg_score":3.65
+        "avg_score": 3.65,
+        "director_name": "Dan Scanlon",
+        "genres": "Adventure|Animation|Comedy|Family|Fantasy",
+        "movie_id": 77,
+        "movie_title": "Monsters University"
     },
     {
-        "movie_id":"78",
-        "director_name":"Bruce Campbell",
-        "genres":"Comedy|Fantasy",
-        "movie_title":"My Name Is Bruce",
-        "avg_score":3.15
+        "avg_score": 3.15,
+        "director_name": "Bruce Campbell",
+        "genres": "Comedy|Fantasy",
+        "movie_id": 78,
+        "movie_title": "My Name Is Bruce"
     },
     {
-        "movie_id":"79",
-        "director_name":"Darren Aronofsky",
-        "genres":"Action|Adventure|Drama",
-        "movie_title":"Noah",
-        "avg_score":2.9
+        "avg_score": 2.9,
+        "director_name": "Darren Aronofsky",
+        "genres": "Action|Adventure|Drama",
+        "movie_id": 79,
+        "movie_title": "Noah"
     },
     {
-        "movie_id":"80",
-        "director_name":"Milos Forman",
-        "genres":"Drama",
-        "movie_title":"One Flew Over the Cuckoo's Nest",
-        "avg_score":4.35
+        "avg_score": 4.35,
+        "director_name": "Milos Forman",
+        "genres": "Drama",
+        "movie_id": 80,
+        "movie_title": "One Flew Over the Cuckoo's Nest"
     },
     {
-        "movie_id":"81",
-        "director_name":"Carl Franklin",
-        "genres":"Crime|Drama|Romance|Thriller",
-        "movie_title":"Out of Time",
-        "avg_score":3.25
+        "avg_score": 3.25,
+        "director_name": "Carl Franklin",
+        "genres": "Crime|Drama|Romance|Thriller",
+        "movie_id": 81,
+        "movie_title": "Out of Time"
     },
     {
-        "movie_id":"82",
-        "director_name":"Joe Wright",
-        "genres":"Adventure|Family|Fantasy",
-        "movie_title":"Pan",
-        "avg_score":2.9
+        "avg_score": 2.9,
+        "director_name": "Joe Wright",
+        "genres": "Adventure|Family|Fantasy",
+        "movie_id": 82,
+        "movie_title": "Pan"
     },
     {
-        "movie_id":"83",
-        "director_name":"Tom Tykwer",
-        "genres":"Crime|Drama|Fantasy",
-        "movie_title":"Perfume: The Story of a Murderer",
-        "avg_score":3.75
+        "avg_score": 3.75,
+        "director_name": "Tom Tykwer",
+        "genres": "Crime|Drama|Fantasy",
+        "movie_id": 83,
+        "movie_title": "Perfume: The Story of a Murderer"
     },
     {
-        "movie_id":"84",
-        "director_name":"Jon Turteltaub",
-        "genres":"Drama|Fantasy|Romance|Sci-Fi",
-        "movie_title":"Phenomenon",
-        "avg_score":3.2
+        "avg_score": 3.2,
+        "director_name": "Jon Turteltaub",
+        "genres": "Drama|Fantasy|Romance|Sci-Fi",
+        "movie_id": 84,
+        "movie_title": "Phenomenon"
     },
     {
-        "movie_id":"85",
-        "director_name":"Renny Harlin",
-        "genres":"Crime|Drama|Horror|Thriller",
-        "movie_title":"Prison",
-        "avg_score":2.95
+        "avg_score": 2.95,
+        "director_name": "Renny Harlin",
+        "genres": "Crime|Drama|Horror|Thriller",
+        "movie_id": 85,
+        "movie_title": "Prison"
     },
     {
-        "movie_id":"86",
-        "director_name":"Richard Glatzer",
-        "genres":"Drama",
-        "movie_title":"Quincea<f1>era",
-        "avg_score":3.55
+        "avg_score": 3.55,
+        "director_name": "Richard Glatzer",
+        "genres": "Drama",
+        "movie_id": 86,
+        "movie_title": "Quincea<f1>era"
     },
     {
-        "movie_id":"87",
-        "director_name":"Boaz Yakin",
-        "genres":"Biography|Drama|Sport",
-        "movie_title":"Remember the Titans",
-        "avg_score":3.9
+        "avg_score": 3.9,
+        "director_name": "Boaz Yakin",
+        "genres": "Biography|Drama|Sport",
+        "movie_id": 87,
+        "movie_title": "Remember the Titans"
     },
     {
-        "movie_id":"88",
-        "director_name":"John Dahl",
-        "genres":"Crime|Drama",
-        "movie_title":"Rounders",
-        "avg_score":3.7
+        "avg_score": 3.7,
+        "director_name": "John Dahl",
+        "genres": "Crime|Drama",
+        "movie_id": 88,
+        "movie_title": "Rounders"
     },
     {
-        "movie_id":"89",
-        "director_name":"Stephen Gaghan",
-        "genres":"Drama|Thriller",
-        "movie_title":"Syriana",
-        "avg_score":3.5
+        "avg_score": 3.5,
+        "director_name": "Stephen Gaghan",
+        "genres": "Drama|Thriller",
+        "movie_id": 89,
+        "movie_title": "Syriana"
     },
     {
-        "movie_id":"90",
-        "director_name":"Jason Stone",
-        "genres":"Thriller",
-        "movie_title":"The Calling",
-        "avg_score":2.9
+        "avg_score": 2.9,
+        "director_name": "Jason Stone",
+        "genres": "Thriller",
+        "movie_id": 90,
+        "movie_title": "The Calling"
     },
     {
-        "movie_id":"91",
-        "director_name":"Joel Schumacher",
-        "genres":"Crime|Drama|Mystery|Thriller",
-        "movie_title":"The Client",
-        "avg_score":3.35
+        "avg_score": 3.35,
+        "director_name": "Joel Schumacher",
+        "genres": "Crime|Drama|Mystery|Thriller",
+        "movie_id": 91,
+        "movie_title": "The Client"
     },
     {
-        "movie_id":"92",
-        "director_name":"John Carpenter",
-        "genres":"Fantasy|Horror",
-        "movie_title":"The Fog",
-        "avg_score":3.4
+        "avg_score": 3.4,
+        "director_name": "John Carpenter",
+        "genres": "Fantasy|Horror",
+        "movie_id": 92,
+        "movie_title": "The Fog"
     },
     {
-        "movie_id":"93",
-        "director_name":"William Friedkin",
-        "genres":"Action|Crime|Drama|Thriller",
-        "movie_title":"The French Connection",
-        "avg_score":3.9
+        "avg_score": 3.9,
+        "director_name": "William Friedkin",
+        "genres": "Action|Crime|Drama|Thriller",
+        "movie_id": 93,
+        "movie_title": "The French Connection"
     },
     {
-        "movie_id":"94",
-        "director_name":"Peter Cattaneo",
-        "genres":"Comedy|Drama|Music",
-        "movie_title":"The Full Monty",
-        "avg_score":3.6
+        "avg_score": 3.6,
+        "director_name": "Peter Cattaneo",
+        "genres": "Comedy|Drama|Music",
+        "movie_id": 94,
+        "movie_title": "The Full Monty"
     },
     {
-        "movie_id":"95",
-        "director_name":"Daniel Sackheim",
-        "genres":"Crime|Drama|Mystery|Thriller",
-        "movie_title":"The Glass House",
-        "avg_score":2.9
+        "avg_score": 2.9,
+        "director_name": "Daniel Sackheim",
+        "genres": "Crime|Drama|Mystery|Thriller",
+        "movie_id": 95,
+        "movie_title": "The Glass House"
     },
     {
-        "movie_id":"96",
-        "director_name":"Stephen Daldry",
-        "genres":"Drama|Romance",
-        "movie_title":"The Hours",
-        "avg_score":3.8
+        "avg_score": 3.8,
+        "director_name": "Stephen Daldry",
+        "genres": "Drama|Romance",
+        "movie_id": 96,
+        "movie_title": "The Hours"
     },
     {
-        "movie_id":"97",
-        "director_name":"Jonathan Hensleigh",
-        "genres":"Action|Crime|Drama|Thriller",
-        "movie_title":"The Punisher",
-        "avg_score":3.25
+        "avg_score": 3.25,
+        "director_name": "Jonathan Hensleigh",
+        "genres": "Action|Crime|Drama|Thriller",
+        "movie_id": 97,
+        "movie_title": "The Punisher"
     },
     {
-        "movie_id":"98",
-        "director_name":"David Lynch",
-        "genres":"Biography|Drama",
-        "movie_title":"The Straight Story",
-        "avg_score":4
+        "avg_score": 4,
+        "director_name": "David Lynch",
+        "genres": "Biography|Drama",
+        "movie_id": 98,
+        "movie_title": "The Straight Story"
     },
     {
-        "movie_id":"99",
-        "director_name":"Michael Sucsy",
-        "genres":"Drama|Romance",
-        "movie_title":"The Vow",
-        "avg_score":3.4
+        "avg_score": 3.4,
+        "director_name": "Michael Sucsy",
+        "genres": "Drama|Romance",
+        "movie_id": 99,
+        "movie_title": "The Vow"
     },
     {
-        "movie_id":"100",
-        "director_name":"Pou-Soi Cheang",
-        "genres":"Action|Adventure|Fantasy",
-        "movie_title":"Xi you ji zhi: Sun Wukong san da Baigu Jing",
-        "avg_score":3
+        "avg_score": 3,
+        "director_name": "Pou-Soi Cheang",
+        "genres": "Action|Adventure|Fantasy",
+        "movie_id": 100,
+        "movie_title": "Xi you ji zhi: Sun Wukong san da Baigu Jing"
     }
 ]

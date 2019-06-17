@@ -25,3 +25,5 @@ Python module **py2neo** needs to be installed in the system, as the Neo4j wrapp
 Once the empty graph database is started, run the *GraphCreation.py* script in order to populate it.
 
 When the script is finished, you can run the *Recommender.py* script to start the recommender queries.
+
+When running the script, one can enter two optional integers as command arguments that will be passed to the script as **User_id**, the user who will recieve the recommendations, and **Limit** the number of Movies/Books (limit items of each) that the system will recommend. By the default these are *User_id=1* and *Limit=5*.
