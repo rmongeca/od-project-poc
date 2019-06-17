@@ -1,7 +1,7 @@
 # Open Data - Final Project
 ## Proof of Concept
 
-**Proof of concept** for the **Open Data final project**. This project contains the necessary scripts and data files to populate an initialized Neo4j graph. Then use this graph to generate recommendations.
+**Proof of concept** for the **Open Data final project**. This project contains the necessary scripts and data files to populate an initialized Neo4j graph. Then use this graph to generate recommendations
 
 The repository contains:
 
